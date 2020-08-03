@@ -1,0 +1,4 @@
+- Folder 'IDLWorkspace' contains the implementations source code using IDL programming language;
+- Unecessary metafiles from 'IDLWorkspace' were removed;
+- MAIN_{HBSC, CVA, PCAKM and USFA} are the main function for HBSC, CVA, PCAKM and USFA methods;
+- Lines beginning with @ represents files that should be previously compiled (automatic if using IDL's Eclipse Workbench).
